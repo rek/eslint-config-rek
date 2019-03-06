@@ -73,6 +73,9 @@ module.exports = {
 		],
 		'no-duplicate-imports': [
 			'error'
+		],
+		"space-infix-ops": [
+			'error'
 		]
 	}
 
